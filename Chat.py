@@ -1,21 +1,9 @@
 # -*- coding: utf-8 -*-
-from chatterbot.trainers import ListTrainer
-from chatterbot import ChatBot
-
-bot = ChatBot('Senior')
-conv2 = ['oi',
-         'ola',
-         'ola, tudo bem?',
-         'sim e você',
-         'qual o seu nome?',
-         'meu nome é Chat, e o seu?']
-
-bot.set_trainer(ListTrainer)
-bot.train(conv2)
+from Consulta import retorno_chat
 
 while True:
     quest = input('Voce: ')
-    resp = bot.get_response(quest)
+    resp = retorno_chat(quest)
 
     if float(resp.confidence) > 0.5:
         print('Chat: ', resp)
