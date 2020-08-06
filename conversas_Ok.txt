@@ -1,0 +1,1668 @@
+pergunta: SE EU ESTIVER ALOCADO, DEVO BATER O PONTO,
+ resposta: Olá! Bem vindo. Qual é a sua pergunta?
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS?,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: MINHAS MARCAÇÕES SUMIRAM?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO, O QUE FACO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ONTEM ESQUECI DE BATER O PONTO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO HOJE?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI O PONTO, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUAL É O VALOR QUE RECEBO?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: QUANTO VOU RECEBER DE HORA EXTRA?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: POR QUE MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO ESTÁ NA MINHA CONTA?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: RECEBI MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI O PAGAMENTO?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: O MEU VALOR ESTÁ MENOR?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: MEU SALÁRIO ESTÁ ERRADO?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: POR QUE CAIU A MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUAL A DATA QUE VOU RECEBER O BANCO DE HORAS?,
+ resposta: O que mais você gostaria de saber sobre o banco de horas?
+
+pergunta: QUANDO É FEITO O PAGAMENTO?,
+ resposta: 
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: COMO VÃO REFLETIR AS HORAS DE DESLOCAMENTO?,
+ resposta: As horas de deslocamento é computada como banco de horas
+
+pergunta: SE EU ESTIVER ALOCADO, DEVO BATER O PONTO,
+ resposta: Olá! Bem vindo. Qual é a sua pergunta?
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS?,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: MINHAS MARCAÇÕES SUMIRAM?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO, O QUE FACO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ONTEM ESQUECI DE BATER O PONTO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO HOJE?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI O PONTO, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUAL É O VALOR QUE RECEBO?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: QUANTO VOU RECEBER DE HORA EXTRA?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: SE EU ESTIVER ALOCADO, DEVO BATER O PONTO,
+ resposta: Olá! Bem vindo. Qual é a sua pergunta?
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS?,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: MINHAS MARCAÇÕES SUMIRAM?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO, O QUE FACO?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ONTEM ESQUECI DE BATER O PONTO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO HOJE?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI O PONTO, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUAL É O VALOR QUE RECEBO?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: QUANTO VOU RECEBER DE HORA EXTRA?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: POR QUE MEU PAGAMENTO NÃO CAIU?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: MEU PAGAMENTO NÃO ESTÁ NA MINHA CONTA?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: NÃO CAIU?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: RECEBI MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI O PAGAMENTO?,
+ resposta: 
+
+pergunta: O MEU VALOR ESTÁ MENOR?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: MEU SALÁRIO ESTÁ ERRADO?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: POR QUE CAIU A MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUAL A DATA QUE VOU RECEBER O BANCO DE HORAS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUANDO É FEITO O PAGAMENTO?,
+ resposta: O que mais você gostaria de saber sobre o banco de horas?
+
+pergunta: O PAGAMENTO CAI QUANDO?,
+ resposta: 
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: COMO VÃO REFLETIR AS HORAS DE DESLOCAMENTO?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: HORAS DE DESLOCAMENTO É PAGO COMO HORA EXTRA OU É BANCO DE HORAS?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: QUANTAS HORAS DE BANCO É PERMITIDO POR DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: ATÉ QUANTAS HORAS EU POSSO FAZER DE BANCO AO DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: QUAL O % DE PAGAMENTO PARA O BANCO DE HORAS?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: COMO FUNCIONA O BANCO DE HORAS DURANTE A SEMANA?,
+ resposta: 
+
+pergunta: Em caso de falecimento quantos dias tenho de licença?,
+ resposta: 
+
+pergunta: Meu pai morreu quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Minha mãe morreu  quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tia abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tio abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vó abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vô abano o dia?,
+ resposta: 
+
+pergunta: Como funciona a licença de obito?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Quantos dias posso ficar em casa se eu me casar?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Como funciona a licença casamento?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou me casar ?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou casar quantos dias fico em casa?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Quanto vou receber de hora extra?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Como funciona a hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Onde eu aponto a hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Que dia eu recebo as horas extras?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Quando vou receber minhas horas do banco?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Quando vou receber as horas?,
+ resposta: 
+
+pergunta: Qual a data de pagamento do banco?,
+ resposta: 
+
+pergunta: Quando fecha o quadrimentre?,
+ resposta: 
+
+pergunta: Minhas horas não foram pagas?,
+ resposta: 
+
+pergunta: Quando paga o banco?,
+ resposta: 
+
+pergunta: Quanto vou receber do banco?,
+ resposta: 
+
+pergunta: Onde cadastro a minha digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Onde cadastro a biometria?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem cadastra a digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quero cadstrar miha digital no ponto?,
+ resposta: 
+
+pergunta: Preciso cadastrar a minha biometria. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso cadastrar minha digital para bater o ponto. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso bater o ponto como cadastra minha digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem devo procurar para fazer me cadastro pra bater o ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Estou alocado preciso bater o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Estou alocado tenho que bater o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: É necessário bater o ponto mesmo estando alocado?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado marca ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado bate o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocados batem ponto eletronico?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Quem precisa bater o ponto?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Como solicito férias na GFT?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Quando minhas férias serão aprovadas no workspace?,
+ resposta: Na semana anterior a sua saída de ferias, você assinará o Recibo e elas serão aprovadas no workspace.
+Após a aprovação no workspace, elas refletirão no kimble como absence.
+
+pergunta: Quando recebo as minhas férias?,
+ resposta: Na semana anterior a sua saída de ferias, você assinará o Recibo e elas serão aprovadas no workspace.
+Após a aprovação no workspace, elas refletirão no kimble como absence.
+
+pergunta: Quando cai o pagamento das minhas férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Quando posso sair de férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Como parcelar as férias?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: Posso parcelar as férias?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: O que é Abono Pecuniário?,
+ resposta: Abono Pecuniário é a venda de 10 dias por parte do colaborador, desde que seja de comum acordo entre as partes ( empregado e empregador) Essa opção obrigatoriamente deve ser requerida do ato do agendamento das respectivas férias.
+
+pergunta: Posso solicitar ferias com menos de 1 ano de empresa?,
+ resposta: Abono Pecuniário é a venda de 10 dias por parte do colaborador, desde que seja de comum acordo entre as partes ( empregado e empregador) Essa opção obrigatoriamente deve ser requerida do ato do agendamento das respectivas férias.
+
+pergunta: EM MENOS DE UM ANO, CONSIGO TIRAR FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: POSSO TIRAR FÉRIAS ANTES DE UM ANO?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: A PARTIR DE QUANDO TENHO DIREITO DE TIRAR FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: COMPLETEI UM ANO, JÁ POSSO SAIR DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUAIS OS REQUISITOS PARA TIRAR MINHAS FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: VOU TIRAR FÉRIAS PELA PRIMEIRA VEZ, COMO FAZER?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: QUERO TIRAR FÉRIAS, COMO FUNCIONA?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUANTOS DIAS DE FÉRIAS POSSO TIRAR?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: POSSO TIRAR QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: TENHO DIREITO A QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: NA NOVA REGRA COMO POSSO DIVIDIR MINHAS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: QUAL É A NOVA REGRA PARA DIVIDIR AS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: POSSO DIVIDIR PS PERÍODOS DE FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: COMO POSSO FRACIONAR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: EM QUANTAS VEZES POSSO DIVIDIR AS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: TENHO DIREITO À DIVIDIR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: QUANTAS VEZES EU POSSO DIVIDIR?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: POSSO DIVIDIR MINHAS FÉRIAS EM QUANTAS VEZES?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: SE EU ESTIVER ALOCADO, DEVO BATER O PONTO,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS?,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: MINHAS MARCAÇÕES SUMIRAM?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO, O QUE FACO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ONTEM ESQUECI DE BATER O PONTO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO HOJE?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI O PONTO, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUAL É O VALOR QUE RECEBO?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: QUANTO VOU RECEBER DE HORA EXTRA?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: POR QUE MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO ESTÁ NA MINHA CONTA?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: RECEBI MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI O PAGAMENTO?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: O MEU VALOR ESTÁ MENOR?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: MEU SALÁRIO ESTÁ ERRADO?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: POR QUE CAIU A MENOS?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: QUAL A DATA QUE VOU RECEBER O BANCO DE HORAS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUANDO É FEITO O PAGAMENTO?,
+ resposta: 
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: COMO VÃO REFLETIR AS HORAS DE DESLOCAMENTO?,
+ resposta: As horas de deslocamento é computada como banco de horas
+
+pergunta: HORAS DE DESLOCAMENTO É PAGO COMO HORA EXTRA OU É BANCO DE HORAS?,
+ resposta: As horas de deslocamento é computada como banco de horas
+
+pergunta: QUANTAS HORAS DE BANCO É PERMITIDO POR DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: ATÉ QUANTAS HORAS EU POSSO FAZER DE BANCO AO DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: QUAL O % DE PAGAMENTO PARA O BANCO DE HORAS?,
+ resposta: 
+
+pergunta: COMO FUNCIONA O BANCO DE HORAS DURANTE A SEMANA?,
+ resposta: 
+
+pergunta: Em caso de falecimento quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Meu pai morreu quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Minha mãe morreu  quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tia abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tio abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vó abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vô abano o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Como funciona a licença de obito?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Quantos dias posso ficar em casa se eu me casar?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Como funciona a licença casamento?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou me casar ?,
+ resposta: 
+
+pergunta: Vou casar quantos dias fico em casa?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Quanto vou receber de hora extra?,
+ resposta: 
+
+pergunta: Como funciona a hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Onde eu aponto a hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Que dia eu recebo as horas extras?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Quando vou receber minhas horas do banco?,
+ resposta: 
+
+pergunta: Quando vou receber as horas?,
+ resposta: 
+
+pergunta: Qual a data de pagamento do banco?,
+ resposta: 
+
+pergunta: Quando fecha o quadrimentre?,
+ resposta: 
+
+pergunta: Minhas horas não foram pagas?,
+ resposta: 
+
+pergunta: Quando paga o banco?,
+ resposta: 
+
+pergunta: Quanto vou receber do banco?,
+ resposta: 
+
+pergunta: Onde cadastro a minha digital?,
+ resposta: 
+
+pergunta: Onde cadastro a biometria?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem cadastra a digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quero cadstrar miha digital no ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso cadastrar a minha biometria. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso cadastrar minha digital para bater o ponto. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso bater o ponto como cadastra minha digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem devo procurar para fazer me cadastro pra bater o ponto?,
+ resposta: 
+
+pergunta: Estou alocado preciso bater o ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Estou alocado tenho que bater o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: É necessário bater o ponto mesmo estando alocado?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado marca ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado bate o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocados batem ponto eletronico?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Quais colaboradores precisam bater ponto?,
+ resposta: 
+
+pergunta: Quem precisa bater o ponto?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Como solicito férias na GFT?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Quando minhas férias serão aprovadas no workspace?,
+ resposta: Na semana anterior a sua saída de ferias, você assinará o Recibo e elas serão aprovadas no workspace.
+Após a aprovação no workspace, elas refletirão no kimble como absence.
+
+pergunta: Quando recebo as minhas férias?,
+ resposta: 
+
+pergunta: Quando cai o pagamento das minhas férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Quando posso sair de férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Como parcelar as férias?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: Posso parcelar as férias?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: O que é Abono Pecuniário?,
+ resposta: Abono Pecuniário é a venda de 10 dias por parte do colaborador, desde que seja de comum acordo entre as partes ( empregado e empregador) Essa opção obrigatoriamente deve ser requerida do ato do agendamento das respectivas férias.
+
+pergunta: Posso solicitar ferias com menos de 1 ano de empresa?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: EM MENOS DE UM ANO, CONSIGO TIRAR FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: POSSO TIRAR FÉRIAS ANTES DE UM ANO?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: A PARTIR DE QUANDO TENHO DIREITO DE TIRAR FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: COMPLETEI UM ANO, JÁ POSSO SAIR DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUAIS OS REQUISITOS PARA TIRAR MINHAS FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: VOU TIRAR FÉRIAS PELA PRIMEIRA VEZ, COMO FAZER?,
+ resposta: 
+
+pergunta: QUERO TIRAR FÉRIAS, COMO FUNCIONA?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUANTOS DIAS DE FÉRIAS POSSO TIRAR?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: POSSO TIRAR QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: TENHO DIREITO A QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: NA NOVA REGRA COMO POSSO DIVIDIR MINHAS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: QUAL É A NOVA REGRA PARA DIVIDIR AS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: POSSO DIVIDIR PS PERÍODOS DE FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: COMO POSSO FRACIONAR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: EM QUANTAS VEZES POSSO DIVIDIR AS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: TENHO DIREITO À DIVIDIR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: QUANTAS VEZES EU POSSO DIVIDIR?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: POSSO DIVIDIR MINHAS FÉRIAS EM QUANTAS VEZES?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: SE EU ESTIVER ALOCADO, DEVO BATER O PONTO,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS?,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: MINHAS MARCAÇÕES SUMIRAM?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO, O QUE FACO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ONTEM ESQUECI DE BATER O PONTO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO HOJE?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI O PONTO, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUAL É O VALOR QUE RECEBO?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: QUANTO VOU RECEBER DE HORA EXTRA?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: POR QUE MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO ESTÁ NA MINHA CONTA?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: RECEBI MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI O PAGAMENTO?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: O MEU VALOR ESTÁ MENOR?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: MEU SALÁRIO ESTÁ ERRADO?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: POR QUE CAIU A MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUAL A DATA QUE VOU RECEBER O BANCO DE HORAS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUANDO É FEITO O PAGAMENTO?,
+ resposta: O que mais você gostaria de saber sobre o banco de horas?
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: COMO VÃO REFLETIR AS HORAS DE DESLOCAMENTO?,
+ resposta: As horas de deslocamento é computada como banco de horas
+
+pergunta: HORAS DE DESLOCAMENTO É PAGO COMO HORA EXTRA OU É BANCO DE HORAS?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: QUANTAS HORAS DE BANCO É PERMITIDO POR DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: ATÉ QUANTAS HORAS EU POSSO FAZER DE BANCO AO DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: QUAL O % DE PAGAMENTO PARA O BANCO DE HORAS?,
+ resposta: 
+
+pergunta: COMO FUNCIONA O BANCO DE HORAS DURANTE A SEMANA?,
+ resposta: 
+
+pergunta: Em caso de falecimento quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Meu pai morreu quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Minha mãe morreu  quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tia abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tio abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vó abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vô abano o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Como funciona a licença de obito?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Quantos dias posso ficar em casa se eu me casar?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Como funciona a licença casamento?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou me casar ?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou casar quantos dias fico em casa?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Quanto vou receber de hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Como funciona a hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Onde eu aponto a hora extra?,
+ resposta: Você deverá lançar as horas no Kimble, onde seu gestor deverá fazer aprovação das horas no processo
+Para Sorocaba e Alphaville a remuneração adicional por hora extraordinária será de 75% (setenta e cinco por cento) do salário-hora, nos dias úteis, para as primeiras 2 (duas) horas após a jornada normal de trabalho.
+
+Se por motivo de força maior for exigida do trabalhador uma sobrejornada mais elástica, as horas excedentes de 2 (duas) horas serão remuneradas com o adicional de 100% (cem por cento).
+Parágrafo 1º - Na hipótese de ocorrer trabalho em dia de sábado, em dias de domingo, feriados ou dias já compensados, a remuneração adicional será de 100% (cento por cento).
+
+pergunta: Que dia eu recebo as horas extras?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Quando vou receber minhas horas do banco?,
+ resposta: 
+
+pergunta: Quando vou receber as horas?,
+ resposta: 
+
+pergunta: Qual a data de pagamento do banco?,
+ resposta: 
+
+pergunta: Quando fecha o quadrimentre?,
+ resposta: 
+
+pergunta: Minhas horas não foram pagas?,
+ resposta: 
+
+pergunta: Quando paga o banco?,
+ resposta: 
+
+pergunta: Quanto vou receber do banco?,
+ resposta: 
+
+pergunta: Onde cadastro a minha digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Onde cadastro a biometria?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem cadastra a digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quero cadstrar miha digital no ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso cadastrar a minha biometria. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso cadastrar minha digital para bater o ponto. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso bater o ponto como cadastra minha digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem devo procurar para fazer me cadastro pra bater o ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Estou alocado preciso bater o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Estou alocado tenho que bater o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: É necessário bater o ponto mesmo estando alocado?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado marca ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado bate o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocados batem ponto eletronico?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Quais colaboradores precisam bater ponto?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Quem precisa bater o ponto?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Como solicito férias na GFT?,
+ resposta: As férias devem ser programadas 40 dias antes do périodo de descanso, pelo próprio colaborador, através da aplicação Absences & Vacations que se encontra no Workspace.
+O funcionário deve colocar no campo “Supervisor”: de Freitas Hansen, Ana Paula
+Além disto, o empregado deverá abrir um ticket no JIRA via RH com Você para a área de HR Operations, constando:
+
+Período de Descanso: Data de início e Data Fim / Quantidade de Dias
+Abono Pecuniário : SIM ou NÃO
+1ª parcela do 13º: SIM ou NÃO
+
+Anexar email de aprovação do seu líder do projeto na GFT
+
+pergunta: Quando minhas férias serão aprovadas no workspace?,
+ resposta: As férias devem ser programadas 40 dias antes do périodo de descanso, pelo próprio colaborador, através da aplicação Absences & Vacations que se encontra no Workspace.
+O funcionário deve colocar no campo “Supervisor”: de Freitas Hansen, Ana Paula
+Além disto, o empregado deverá abrir um ticket no JIRA via RH com Você para a área de HR Operations, constando:
+
+Período de Descanso: Data de início e Data Fim / Quantidade de Dias
+Abono Pecuniário : SIM ou NÃO
+1ª parcela do 13º: SIM ou NÃO
+
+Anexar email de aprovação do seu líder do projeto na GFT
+
+pergunta: Quando recebo as minhas férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Quando cai o pagamento das minhas férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Quando posso sair de férias?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: Como parcelar as férias?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: Posso parcelar as férias?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: O que é Abono Pecuniário?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: Posso solicitar ferias com menos de 1 ano de empresa?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: EM MENOS DE UM ANO, CONSIGO TIRAR FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: POSSO TIRAR FÉRIAS ANTES DE UM ANO?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: A PARTIR DE QUANDO TENHO DIREITO DE TIRAR FÉRIAS?,
+ resposta: 
+
+pergunta: COMPLETEI UM ANO, JÁ POSSO SAIR DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUAIS OS REQUISITOS PARA TIRAR MINHAS FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: VOU TIRAR FÉRIAS PELA PRIMEIRA VEZ, COMO FAZER?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUERO TIRAR FÉRIAS, COMO FUNCIONA?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUANTOS DIAS DE FÉRIAS POSSO TIRAR?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: POSSO TIRAR QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: TENHO DIREITO A QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: NA NOVA REGRA COMO POSSO DIVIDIR MINHAS FÉRIAS?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: QUAL É A NOVA REGRA PARA DIVIDIR AS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: POSSO DIVIDIR PS PERÍODOS DE FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: COMO POSSO FRACIONAR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: EM QUANTAS VEZES POSSO DIVIDIR AS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: TENHO DIREITO À DIVIDIR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: QUANTAS VEZES EU POSSO DIVIDIR?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: POSSO DIVIDIR MINHAS FÉRIAS EM QUANTAS VEZES?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: SE EU ESTIVER ALOCADO, DEVO BATER O PONTO,
+ resposta: Olá! Bem vindo. Qual é a sua pergunta?
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS,
+ resposta: Olá! Bem vindo. Qual é a sua pergunta?
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS?,
+ resposta: Não, você recebe 1/3 do salário
+
+pergunta: QUEM LANÇA A AUSÊNCIA DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: COMO LANÇO MINHAS AUSÊNCIAS DE FÉRIAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: Apontamento de ausências são de responsabilidade do funcionário. Você deve entrar na plataforma e fazer o lançamento
+
+pergunta: MINHAS MARCAÇÕES SUMIRAM?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: MINHAS MARCAÇÕES FORAM APAGADAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: ESQUECI DE BATER O PONTO, O QUE FACO?,
+ resposta: Você chegou a fazer as marcações? Se sim, poderá ter ocorrido algum erro no processamento das informações. Favor abrir um JIRA
+
+pergunta: ONTEM ESQUECI DE BATER O PONTO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: ESQUECI DE BATER O PONTO HOJE?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: NÃO BATI O PONTO, O QUE FAÇO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUAL É O VALOR QUE RECEBO?,
+ resposta: Você deve solicitar o ajuste pelo link do Secullum ou abrir um JIRA
+
+pergunta: QUANTO VOU RECEBER DE HORA EXTRA?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: O QUE FAÇO PARA RECEBER AS MINHAS HORAS EXTRAS?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: POR QUE MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU PAGAMENTO NÃO ESTÁ NA MINHA CONTA?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: NÃO CAIU?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: MEU PAGAMENTO NÃO CAIU?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: RECEBI MENOS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: NÃO RECEBI O PAGAMENTO?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: O MEU VALOR ESTÁ MENOR?,
+ resposta: Por favor verifique sua conta. Se necessário pode abrir um JIRA para verificação !
+
+pergunta: MEU SALÁRIO ESTÁ ERRADO?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: POR QUE CAIU A MENOS?,
+ resposta: O que quer saber sobre a Folha de Pagamento?
+
+pergunta: QUAL A DATA QUE VOU RECEBER O BANCO DE HORAS?,
+ resposta: Você deve abrir um JIRA para verificação !
+
+pergunta: QUANDO É FEITO O PAGAMENTO?,
+ resposta: O que mais você gostaria de saber sobre o banco de horas?
+
+pergunta: O PAGAMENTO CAI QUANDO?,
+ resposta: 
+
+pergunta: POR QUE NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: FIZ HORA EXTRA E NÃO RECEBI?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: NÃO RECEBI MINHAS HORAS EXTRAS?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: COMO VÃO REFLETIR AS HORAS DE DESLOCAMENTO?,
+ resposta: Para receber suas horas extras, você deve fazer o apontamento correto no Kimble e ter aprovação prévia do gestor. Se fez tudo isso e não recebeu, por favor abra um JIRA
+
+pergunta: HORAS DE DESLOCAMENTO É PAGO COMO HORA EXTRA OU É BANCO DE HORAS?,
+ resposta: As horas de deslocamento é computada como banco de horas
+
+pergunta: QUANTAS HORAS DE BANCO É PERMITIDO POR DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: ATÉ QUANTAS HORAS EU POSSO FAZER DE BANCO AO DIA?,
+ resposta: Foi aprovado pelo Gestor?
+
+pergunta: QUAL O % DE PAGAMENTO PARA O BANCO DE HORAS?,
+ resposta: 
+
+pergunta: COMO FUNCIONA O BANCO DE HORAS DURANTE A SEMANA?,
+ resposta: 
+
+pergunta: Em caso de falecimento quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Meu pai morreu quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Minha mãe morreu  quantos dias tenho de licença?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tia abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de tio abona o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Falecimento de vó abona o dia?,
+ resposta: 
+
+pergunta: Falecimento de vô abano o dia?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Como funciona a licença de obito?,
+ resposta: Para as localidade de Alphaville e Sorocaba: A licença Falecimento é de 05 (cinco) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+Para as localidade de Curitiba: A licença Falecimento é de 03 (três) dias consecutivos, em caso de falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que comprovadamente viva sob sua dependência.
+
+pergunta: Quantos dias posso ficar em casa se eu me casar?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Como funciona a licença casamento?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou me casar ?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Vou casar quantos dias fico em casa?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Quanto vou receber de hora extra?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Como funciona a hora extra?,
+ resposta: A licença casamento é de 05 (cinco) dias consecutivos a partir do data do documento.
+
+pergunta: Onde eu aponto a hora extra?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Que dia eu recebo as horas extras?,
+ resposta: As horas depende da quantidade de horas trabalhadas e o dia que as horas foram feitas
+
+pergunta: Quando vou receber minhas horas do banco?,
+ resposta: Você deverá lançar as horas no Kimble, onde seu gestor deverá fazer aprovação das horas no processo
+Para Sorocaba e Alphaville a remuneração adicional por hora extraordinária será de 75% (setenta e cinco por cento) do salário-hora, nos dias úteis, para as primeiras 2 (duas) horas após a jornada normal de trabalho.
+
+Se por motivo de força maior for exigida do trabalhador uma sobrejornada mais elástica, as horas excedentes de 2 (duas) horas serão remuneradas com o adicional de 100% (cem por cento).
+Parágrafo 1º - Na hipótese de ocorrer trabalho em dia de sábado, em dias de domingo, feriados ou dias já compensados, a remuneração adicional será de 100% (cento por cento).
+
+pergunta: Quando vou receber as horas?,
+ resposta: 
+
+pergunta: Qual a data de pagamento do banco?,
+ resposta: 
+
+pergunta: Quando fecha o quadrimentre?,
+ resposta: 
+
+pergunta: Minhas horas não foram pagas?,
+ resposta: 
+
+pergunta: Quando paga o banco?,
+ resposta: 
+
+pergunta: Quanto vou receber do banco?,
+ resposta: 
+
+pergunta: Onde cadastro a minha digital?,
+ resposta: 
+
+pergunta: Onde cadastro a biometria?,
+ resposta: 
+
+pergunta: Quem cadastra a digital?,
+ resposta: 
+
+pergunta: Quero cadstrar miha digital no ponto?,
+ resposta: 
+
+pergunta: Preciso cadastrar a minha biometria. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso cadastrar minha digital para bater o ponto. Como faço?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Preciso bater o ponto como cadastra minha digital?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Quem devo procurar para fazer me cadastro pra bater o ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Estou alocado preciso bater o ponto?,
+ resposta: Em Alphaville você deve procurar um funcionário do RH no 10º andar, Sorocaba procurar por Ana Hansen em Curitiba por Mylenna Bezerra dos santos.
+
+pergunta: Estou alocado tenho que bater o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: É necessário bater o ponto mesmo estando alocado?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado marca ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocado bate o ponto?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Alocados batem ponto eletronico?,
+ resposta: Funcionários alocados são isentos de marcar o ponto
+
+pergunta: Quais colaboradores precisam bater ponto?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Quem precisa bater o ponto?,
+ resposta: Os funcionários de L1 a L4 devem bater ponto regularmente. Apenas Alocados e os funcionários com L5 em diante são isentos de bater o ponto.
+
+pergunta: Como solicito férias na GFT?,
+ resposta: As férias devem ser programadas 40 dias antes do périodo de descanso, pelo próprio colaborador, através da aplicação Absences & Vacations que se encontra no Workspace.
+O funcionário deve colocar no campo “Supervisor”: de Freitas Hansen, Ana Paula
+Além disto, o empregado deverá abrir um ticket no JIRA via RH com Você para a área de HR Operations, constando:
+
+Período de Descanso: Data de início e Data Fim / Quantidade de Dias
+Abono Pecuniário : SIM ou NÃO
+1ª parcela do 13º: SIM ou NÃO
+
+Anexar email de aprovação do seu líder do projeto na GFT
+
+pergunta: Quando minhas férias serão aprovadas no workspace?,
+ resposta: Na semana anterior a sua saída de ferias, você assinará o Recibo e elas serão aprovadas no workspace.
+Após a aprovação no workspace, elas refletirão no kimble como absence.
+
+pergunta: Quando recebo as minhas férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Quando cai o pagamento das minhas férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Quando posso sair de férias?,
+ resposta: Bom, nas férias você recebe o calculo de férias, saldo de salário, 1/3 do salário
+Os valores cairão 48horas antes do início das férias
+
+pergunta: Como parcelar as férias?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: Posso parcelar as férias?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: O que é Abono Pecuniário?,
+ resposta: Abono Pecuniário é a venda de 10 dias por parte do colaborador, desde que seja de comum acordo entre as partes ( empregado e empregador) Essa opção obrigatoriamente deve ser requerida do ato do agendamento das respectivas férias.
+
+pergunta: Posso solicitar ferias com menos de 1 ano de empresa?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: EM MENOS DE UM ANO, CONSIGO TIRAR FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: POSSO TIRAR FÉRIAS ANTES DE UM ANO?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: A PARTIR DE QUANDO TENHO DIREITO DE TIRAR FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: COMPLETEI UM ANO, JÁ POSSO SAIR DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUAIS OS REQUISITOS PARA TIRAR MINHAS FÉRIAS?,
+ resposta: Conforme Art. 130 da CLT, somente após 12 meses de vigência de contrato de trabalho que o funcionário fará jus ao descanso.
+
+pergunta: VOU TIRAR FÉRIAS PELA PRIMEIRA VEZ, COMO FAZER?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUERO TIRAR FÉRIAS, COMO FUNCIONA?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: QUANTOS DIAS DE FÉRIAS POSSO TIRAR?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: POSSO TIRAR QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você deve ter 1 ano completo de trabalho. Deve agendar o período com o seu gestor e abrir um JIRA para programação
+
+pergunta: TENHO DIREITO A QUANTOS DIAS DE FÉRIAS?,
+ resposta: Você tem direito à 30 dias de férias
+
+pergunta: NA NOVA REGRA COMO POSSO DIVIDIR MINHAS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: QUAL É A NOVA REGRA PARA DIVIDIR AS FÉRIAS?,
+ resposta: A nova regra permite que você descanse em até 3 períodos
+
+pergunta: POSSO DIVIDIR PS PERÍODOS DE FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: COMO POSSO FRACIONAR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: EM QUANTAS VEZES POSSO DIVIDIR AS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: TENHO DIREITO À DIVIDIR MINHAS FÉRIAS?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: QUANTAS VEZES EU POSSO DIVIDIR?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+
+pergunta: POSSO DIVIDIR MINHAS FÉRIAS EM QUANTAS VEZES?,
+ resposta: É permitido o fracionamento das férias em até três períodos, desde que seja de comum acordo entre as partes.
+
+Regras em caso de fracionamento das férias: Um período não poderá ser inferior a 14(quatorze dias); Os demais períodos não poderão ser inferiores a 5(cinco) dias. Obs: vale ressaltar que devem ser considerados como férias os dias úteis, como também sábados e domingos.
+

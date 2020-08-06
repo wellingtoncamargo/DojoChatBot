@@ -1,0 +1,48 @@
+pergunta: O PAGAMENTO CAI QUANDO?,
+ resposta: Did you mean:
+
+pergunta: QUANDO O PAGAMENTO CAI?,
+ resposta: Did you mean:
+
+pergunta: RECEBO UM SALÁRIO ADICIONAL NAS FÉRIAS,
+ resposta: Did you mean:
+
+pergunta: QUANDO O PAGAMENTO CAI?,
+ resposta: Did you mean:
+
+pergunta: Alocados precisamr efetuar a marcação de ponto?,
+ resposta: Did you mean:
+
+pergunta: Quais colaboradores precisam bater ponto?,
+ resposta: Did you mean:
+
+pergunta: O PAGAMENTO CAI QUANDO?,
+ resposta: Did you mean:
+
+pergunta: QUANDO O PAGAMENTO CAI?,
+ resposta: Did you mean:
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Did you mean:
+
+pergunta: Alocados precisamr efetuar a marcação de ponto?,
+ resposta: Did you mean:
+
+pergunta: O PAGAMENTO CAI QUANDO?,
+ resposta: Did you mean:
+
+pergunta: QUANDO O PAGAMENTO CAI?,
+ resposta: Did you mean:
+
+pergunta: Alocados precisamr efetuar a marcação de ponto?,
+ resposta: Did you mean:
+
+pergunta: QUANDO O PAGAMENTO CAI?,
+ resposta: Did you mean:
+
+pergunta: POR QUE NÃO ENTROU A HORA EXTRA?,
+ resposta: Did you mean:
+
+pergunta: Alocados precisamr efetuar a marcação de ponto?,
+ resposta: Did you mean:
+
